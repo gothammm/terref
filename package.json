@@ -1,0 +1,19 @@
+{
+  "name": "terref",
+  "version": "1.0.0",
+  "description": "OpenAPI/Swagger first framework for node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.13.1",
+    "jest": "^25.4.0",
+    "lerna": "^3.20.2",
+    "ts-jest": "^25.4.0",
+    "typescript": "^3.8.3"
+  }
+}
